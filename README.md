@@ -6,8 +6,7 @@
 
 ***Talking about Personal Stuffs...***
 
-- 👯 I’m looking to collaborate on financial projects
-- 📫 How to reach me: <a target="_blank" href="mailto: higor.lorenzon@gmail.com"><b>jatvishnu2822@gmail.com</b></a>
+- 📫 How to reach me: <a target="_blank" href="mailto: higor.lorenzon@gmail.com"><b>vishnu.choudhary2822@gmail.com</b></a>
  
 
 ***Languages & Tools I Know...***
