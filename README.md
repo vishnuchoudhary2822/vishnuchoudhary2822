@@ -6,7 +6,7 @@
 
 ***Talking about Personal Stuffs...***
 
-- 📫 How to reach me: <a target="_blank" href="mailto: higor.lorenzon@gmail.com"><b>vishnu.choudhary2822@gmail.com</b></a>
+- 📫 How to reach me: <a target="_blank" href="mailto: higor.lorenzon@gmail.com"><b>developervishnu4@gmail.com</b></a>
  
 
 ***Languages & Tools I Know...***
