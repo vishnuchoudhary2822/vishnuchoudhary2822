@@ -66,22 +66,6 @@ I am a Full Stack Developer building scalable business applications, healthcare 
 
 ---
 
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishnuchoudhary2822&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishnuchoudhary2822&theme=tokyonight&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## Contribution Graph
 
 <p align="center">
