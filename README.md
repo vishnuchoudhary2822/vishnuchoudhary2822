@@ -57,11 +57,10 @@ I am a Full Stack Developer building scalable business applications, healthcare 
 
 ---
 
-## GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishnuchoudhary2822&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuchoudhary2822&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=vishnuchoudhary2822&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
